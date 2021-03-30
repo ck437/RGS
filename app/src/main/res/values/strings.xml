@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">RGS</string>
+    <string name="email_id">Email ID</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="full_name">Full Name</string>
+    <string name="user_register"> User Register</string>
+    <string name="admin_register">Admin Register</string>
+    <string name="register">Register</string>
+    <string name="road_greivance_system">Road Greivance System</string>
+    <string name="already_registered_login_here">Already Registered ? Login Here</string>
+    <string name="sign_up">Sign-Up</string>
+    <string name="password">Password</string>
+    <string name="admin_login">ADMIN LOGIN</string>
+    <string name="user_login">USER LOGIN</string>
+
+    <string name="login">Login</string>
+    <string name="not_registered_signup_here">Not Registered ? Signup Here</string>
+    <string name="login1">LOGIN</string>
+    <string name="name">Name</string>
+    <string name="landmark">Landmark</string>
+    <string name="streetno_address">streetno/address</string>
+    <string name="complaint">Complaint</string>
+    <string name="submit">submit</string>
+    <string name="problem">problem</string>
+
+    <string-array name="complaint_types">
+        <item>Street Light</item>
+        <item>Garbage</item>
+        <item>Road Damage</item>
+        <item>Long Uturn</item>
+        <item>Pot hole</item>
+    </string-array>
+</resources>
